@@ -17,12 +17,12 @@ When the browser is stretched wide:
 ![desired outcome wide](./desired-outcome-wide.png)
 
 ### Self Check
-- The gap is 15px
-- The grid has two columns
-- The grid has four rows
-- The grid tracks do not use static sizes (no pixels!)
-- The second column is three times larger than the other
-- The third row is five times larger than the others
+- The gap is 15px DONE
+- The grid has two columns DONE
+- The grid has four rows DONE
+- The grid tracks do not use static sizes (no pixels!) DONE
+- The second column is three times larger than the other DONE
+- The third row is five times larger than the others DONE
 - The columns narrow and widen as the viewport changes size
 - Row 3 gets taller to accomodate text wrapping as you narrow the viewport size 
 
