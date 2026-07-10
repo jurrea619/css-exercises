@@ -12,7 +12,9 @@ body {
 
 .title {
   background: #e3f4ff;
+  margin-bottom: 10px;
   font-size: 16px;
+  padding: 8px;
 }
 
 .content {
@@ -22,21 +24,16 @@ body {
 
 .button-container {
   background: #e3f4ff;
-  display: block;
-  padding: 8px;
   text-align: center;
+  display: block;
+  margin-top: 10px;
+  padding: 10px;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
-  padding: 8px 24px;
   display: block;
   margin: 0 auto;
-}
-
-h1,
-div {
-  padding: 8px;
-  margin: 8px;
+  padding: 8px 16px;
 }
